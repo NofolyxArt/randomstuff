@@ -1,0 +1,19 @@
+h1{
+    color:whitesmoke;
+    text-decoration: whitesmoke; border-bottom: 2px dashed;
+    text-decoration: underline;
+    text-decoration-color: whitesmoke;
+    font-size: 56px;
+    font-family:georgia,garamond,serif;font-style:normal;
+}
+
+p{
+    color:whitesmoke;
+    font-family:Calibri;font-style:normal;
+}
+
+
+body{
+    background-color: rgb(27, 27, 27);
+    font-family:Calibri;font-style:normal;
+}
